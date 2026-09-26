@@ -1,0 +1,4 @@
+D:/cubemxws/1/Core/Src/main.c:60:7:HAL_UART_RxCpltCallback	24	static
+D:/cubemxws/1/Core/Src/main.c:83:5:main	8	static
+D:/cubemxws/1/Core/Src/main.c:146:6:SystemClock_Config	88	static
+D:/cubemxws/1/Core/Src/main.c:195:6:Error_Handler	4	static
